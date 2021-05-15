@@ -21,7 +21,7 @@ public class SanphamAdapter extends RecyclerView.Adapter<SanphamAdapter.ItemHold
     Context context;
     ArrayList<Sanpham> sanphamArrayList;
 
-    public SanphamAdapter(Context context, ArrayList<Sanpham> sanphamArrayList) {
+    public  SanphamAdapter(Context context, ArrayList<Sanpham> sanphamArrayList) {
         this.context = context;
         this.sanphamArrayList = sanphamArrayList;
     }

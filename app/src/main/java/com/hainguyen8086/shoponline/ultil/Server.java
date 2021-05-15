@@ -3,6 +3,8 @@ package com.hainguyen8086.shoponline.ultil;
 
 public class Server {
 //    public static String localhost = "192.168.43.196";
+    public static String localhost = "192.168.57.1";
+
 
 //    public static String DuongdanLoaisp = "http://" + localhost + "/server/getloaisp.php";
     public static final String DuongdanLoaisp = "https://hainguyen8086.000webhostapp.com/getloaisp.php";
